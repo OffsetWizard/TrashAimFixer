@@ -51,9 +51,7 @@
 
 ## 📥 Installation
 
-
-> [!WARNING]  
-> Stay tuned! The tutorial will be uploaded shortly.
+[Tutorial](https://youtu.be/pzIoQzG450Q)
 
 ---
 
